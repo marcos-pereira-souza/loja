@@ -8,7 +8,7 @@
 </head>
 <body>
 <h1>Minha página</h1>
-<p>Aqui está o conteúdo da nossa página</p>
+<p>Esse é o conteúdo da página</p>
 </body>
 </html>
 
